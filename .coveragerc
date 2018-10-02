@@ -1,0 +1,3 @@
+[run]
+source = izi_accounts
+omit = *migrations*
